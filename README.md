@@ -15,11 +15,11 @@
   <a href="https://www.linkedin.com/in/tanishq-sharma-/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=101010" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-git-main-tanishqs-projects-0d62dded.vercel.app">
+  <a href="https://portfolio-sooty-iota-it70epqfp8.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=google-chrome&logoColor=FF5722&labelColor=101010" alt="Portfolio" />
   </a>
   <br/>
-  <img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India-000000?style=flat-square&logo=google-maps&logoColor=39FF14&color=101010" />
+  <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-000000?style=flat-square&logo=google-maps&logoColor=39FF14&color=101010" />
 </p>
 
 <br/>
