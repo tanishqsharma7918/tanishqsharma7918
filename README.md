@@ -43,7 +43,7 @@
     </td>
     <td width="45%" valign="center" style="border: none;">
       <div align="center">
-        <img src="https://i.pinimg.com/originals/e0/10/37/e01037aba7cc9b25181710344d32a975.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3);" alt="Futuristic AI Interface"/>
+        <img src="Self.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3);" alt="Futuristic Profile GIF"/>
       </div>
     </td>
   </tr>
@@ -132,7 +132,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanishqsharma7918&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tanishqsharma7918&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 <div align="center">
