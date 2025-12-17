@@ -57,38 +57,35 @@
 
 <table style="border: none;">
   <tr>
-    <td align="center" style="border: none;"><strong>Core & Scripting</strong></td>
-    <td align="center" style="border: none;"><strong>AI, LLMs & ML</strong></td>
-    <td align="center" style="border: none;"><strong>Data Engineering & BI</strong></td>
-    <td align="center" style="border: none;"><strong>Cloud & MLOps</strong></td>
+    <td align="center" style="border: none;"><strong>Languages</strong></td>
+    <td align="center" style="border: none;"><strong>AI & ML</strong></td>
+    <td align="center" style="border: none;"><strong>Backend & Data</strong></td>
+    <td align="center" style="border: none;"><strong>Cloud & DevOps</strong></td>
   </tr>
   <tr>
     <td align="center" valign="top" style="border: none;">
       <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </td>
     <td align="center" valign="top" style="border: none;">
       <img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=langchain&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     </td>
     <td align="center" valign="top" style="border: none;">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" /><br>
-      <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627" /><br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
     </td>
     <td align="center" valign="top" style="border: none;">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -103,25 +100,25 @@
 
 *Tech Stack: Streamlit, LangGraph, OpenAI, FAISS Vector DB*
 
-🧠 **95% increase in query accuracy** by utilizing grounded RAG architecture for domain-specific ML queries.
-⚡ **Sub-second response times** achieved via optimized retriever pipelines and Streamlit UI rendering.
-🔗 **Complex state orchestration** handled precisely by LangGraph for multi-turn conversational memory.
+• 🧠 **95% increase in query accuracy** by utilizing grounded RAG architecture for domain-specific ML queries.<br/>
+• ⚡ **Sub-second response times** achieved via optimized retriever pipelines and Streamlit UI rendering.<br/>
+• 🔗 **Complex state orchestration** handled precisely by LangGraph for multi-turn conversational memory.
 
-### 📰 AI Daily Digest - Multi-Agent News Automation
+### ⚡ AI Pulse Dashboard - Full-Stack Intelligence Engine
 
-*Tech Stack: Python, LangChain, OpenAI, SendGrid, FAISS*
+*Tech Stack: Next.js 14, FastAPI, PostgreSQL, Docker, Python*
 
-🚀 **8+ High-traffic RSS sources** autonomous ingested and synthesized daily without human intervention.
-🤖 **Simulated multi-agent workflow** (Hunter, Editor, Postman personas) replicating human research teams.
-🛡️ **99.9% resilient scraping** implemented using adaptive error handling against anti-bot measures.
+• 🔥 **Intelligent Topic Clustering:** Aggregates and normalizes news from **20+ high-signal sources** (OpenAI, Wired, TechCrunch), grouping related stories into unified cards.<br/>
+• 📈 **Smart Popularity Scoring:** Engineered a weighted algorithm `(0.4 Coverage + 0.2 Diversity + 0.2 Velocity)` to automatically rank and surface high-impact trends.<br/>
+• 🏗️ **Production-Ready Architecture:** Complete self-healing ingestion pipeline packaged in **Docker** for zero-config deployment with Next.js frontend and PostgreSQL storage.
 
 ### 🕵️‍♂️ Competitor Analysis Engine - AI Market Intelligence
 
 *Tech Stack: Python, Streamlit, OpenAI GPT-4o, DuckDuckGo, Plotly*
 
-⏳ **95% reduction in research turnaround** compressing multi-day manual market analysis into minutes.
-🔍 **Automated deep-web reconnaissance** orchestrated by multi-step LLM agents for comprehensive coverage.
-📊 **Dynamic visual reporting** generated instantly with Plotly for actionable stakeholder presentations.
+• ⏳ **95% reduction in research turnaround** compressing multi-day manual market analysis into minutes.<br/>
+• 🔍 **Automated deep-web reconnaissance** orchestrated by multi-step LLM agents for comprehensive coverage.<br/>
+• 📊 **Dynamic visual reporting** generated instantly with Plotly for actionable stakeholder presentations.
 
 <br/>
 
