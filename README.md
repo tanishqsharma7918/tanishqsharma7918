@@ -43,7 +43,7 @@
     </td>
     <td width="45%" valign="center" style="border: none;">
       <div align="center">
-        <img src="Self.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3);" alt="Futuristic Profile GIF"/>
+        <img src="https://github.com/tanishqsharma7918/tanishqsharma7918/blob/main/Self.gif?raw=true" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.3);" alt="Futuristic Profile GIF"/>
       </div>
     </td>
   </tr>
@@ -130,10 +130,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanishqsharma7918&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsharma7918&bg_color=000000&color=00FFFF&line=8A2BE2&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
