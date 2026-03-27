@@ -124,30 +124,8 @@
 
 <h2 align="center" style="border-bottom: 2px solid #00FFFF; color: #00FFFF;">📈 Neural Network Activity</h2>
 
-<!-- Jump to year -->
 <div align="center">
-  <a href="#-2026">
-    <img src="https://img.shields.io/badge/2026-00FFFF?style=flat-square&labelColor=0d1117&color=00FFFF" alt="2026" />
-  </a>&nbsp;&nbsp;
-  <a href="#-2025">
-    <img src="https://img.shields.io/badge/2025-8A2BE2?style=flat-square&labelColor=0d1117&color=8A2BE2" alt="2025" />
-  </a>
-</div>
-
-<br/>
-
-<h4 id="-2026" align="center">── 2026 ──</h4>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsharma7918&from=2026-01-01&to=2026-12-31&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Tanishq's%20Contributions%20%E2%80%94%202026&title_color=00FFFF" width="100%" alt="2026 Contributions" />
-</div>
-
-<br/>
-
-<h4 id="-2025" align="center">── 2025 ──</h4>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsharma7918&from=2025-04-01&to=2025-12-31&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=Tanishq's%20Contributions%20%E2%80%94%202025&title_color=8A2BE2" width="100%" alt="2025 Contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsharma7918&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Tanishq's%20Contribution%20Graph&title_color=00FFFF" width="100%" alt="Tanishq's Contribution Graph" />
 </div>
 
 <br/>
