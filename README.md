@@ -132,6 +132,18 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishqsharma7918&theme=github_dark" width="100%" alt="Contribution Calendar" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqsharma7918&theme=tokyonight&hide_border=true&background=000000&stroke=00FFFF&ring=8A2BE2&fire=FF4500&currStreakLabel=00FFFF" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsharma7918&bg_color=000000&color=00FFFF&line=8A2BE2&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
