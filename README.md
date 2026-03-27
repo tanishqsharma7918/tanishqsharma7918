@@ -147,7 +147,7 @@
 <h4 id="-2025" align="center">── 2025 ──</h4>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsharma7918&from=2025-01-01&to=2025-12-31&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=Tanishq's%20Contributions%20%E2%80%94%202025&title_color=8A2BE2" width="100%" alt="2025 Contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsharma7918&from=2025-01-01&to=2025-12-31&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=8A2BE2&area=false&hide_border=true&custom_title=Tanishq's%20Contributions%20%E2%80%94%202025&title_color=8A2BE2&radius=16" width="100%" alt="2025 Contributions" />
 </div>
 
 <br/>
