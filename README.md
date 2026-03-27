@@ -122,7 +122,7 @@
 
 <br/>
 
-<h2 align="center" style="border-bottom: 2px solid #00FFFF; color: #00FFFF;">📈 Tanishq's Contribution Graph</h2>
+<h2 align="center" style="border-bottom: 2px solid #00FFFF; color: #00FFFF;">📈 Neural Network Activity</h2>
 
 <!-- Click a year to view that year's contributions on GitHub -->
 <div align="center">
