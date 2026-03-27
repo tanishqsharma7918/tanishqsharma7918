@@ -122,50 +122,25 @@
 
 <br/>
 
-<h2 align="center" style="border-bottom: 2px solid #00FFFF; color: #00FFFF;">📈 Neural Network Activity</h2>
+<h2 align="center" style="border-bottom: 2px solid #00FFFF; color: #00FFFF;">📈 Tanishq's Contribution Graph</h2>
 
-<!-- Year filter — click a year to see that year's contributions on GitHub -->
+<!-- Click a year to view that year's contributions on GitHub -->
 <div align="center">
   <a href="https://github.com/tanishqsharma7918?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img src="https://img.shields.io/badge/2026-00FFFF?style=for-the-badge&labelColor=000000&color=00FFFF" alt="2026" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/2026-active-00FFFF?style=flat-square&labelColor=0d1117&color=00FFFF" alt="2026" />
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/tanishqsharma7918?tab=overview&from=2025-01-01&to=2025-12-31">
-    <img src="https://img.shields.io/badge/2025-8A2BE2?style=for-the-badge&labelColor=000000&color=8A2BE2" alt="2025" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/2025-8A2BE2?style=flat-square&labelColor=0d1117&color=8A2BE2" alt="2025" />
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/tanishqsharma7918?tab=overview&from=2024-01-01&to=2024-12-31">
-    <img src="https://img.shields.io/badge/2024-39FF14?style=for-the-badge&labelColor=000000&color=39FF14" alt="2024" />
+    <img src="https://img.shields.io/badge/2024-39FF14?style=flat-square&labelColor=0d1117&color=39FF14" alt="2024" />
   </a>
 </div>
 
 <br/>
 
-<!-- Contribution heatmap calendar -->
 <div align="center">
-  <img src="https://ghchart.rshah.org/00FFFF/tanishqsharma7918" width="100%" alt="Contribution Heatmap" />
-</div>
-
-<br/>
-
-<!-- Stats breakdown cards -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanishqsharma7918&theme=github_dark" height="180" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanishqsharma7918&theme=github_dark&utcOffset=5.5" height="180" alt="Commits by Hour" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishqsharma7918&theme=github_dark" height="180" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishqsharma7918&theme=github_dark" height="180" alt="Top Languages by Commit" />
-</div>
-
-<br/>
-
-<!-- Streak stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqsharma7918&theme=tokyonight&hide_border=true&background=000000&stroke=00FFFF&ring=8A2BE2&fire=FF4500&currStreakLabel=00FFFF" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<!-- Activity graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsharma7918&bg_color=000000&color=00FFFF&line=8A2BE2&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsharma7918&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF&hide_border=true&custom_title=Tanishq's%20Contribution%20Graph&title_color=00FFFF" width="100%" alt="Tanishq's Contribution Graph" />
 </div>
 
 <br/>
