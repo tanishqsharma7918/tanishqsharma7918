@@ -124,36 +124,45 @@
 
 <h2 align="center" style="border-bottom: 2px solid #00FFFF; color: #00FFFF;">📈 Neural Network Activity</h2>
 
+<!-- Clickable org contribution tabs — click to see filtered commits per org -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishqsharma7918&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=8A2BE2&text_color=ffffff" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsharma7918&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=ffffff" height="160" alt="Languages" />
+  <a href="https://github.com/tanishqsharma7918?tab=overview&org=Dev-2-Prod">
+    <img src="https://img.shields.io/badge/@Dev--2--Prod-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dev-2-Prod contributions" />
+  </a>&nbsp;
+  <a href="https://github.com/tanishqsharma7918?tab=overview&org=Culinda-Inc">
+    <img src="https://img.shields.io/badge/@Culinda--Inc-181717?style=for-the-badge&logo=github&logoColor=white" alt="Culinda-Inc contributions" />
+  </a>
 </div>
 
 <br/>
 
+<!-- Contribution heatmap calendar -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishqsharma7918&theme=github_dark" width="100%" alt="Contribution Calendar" />
 </div>
 
 <br/>
 
+<!-- Stats breakdown cards -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanishqsharma7918&theme=github_dark" height="160" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanishqsharma7918&theme=github_dark&utcOffset=5.5" height="160" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishqsharma7918&theme=github_dark" height="160" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishqsharma7918&theme=github_dark" height="160" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanishqsharma7918&theme=github_dark" height="180" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanishqsharma7918&theme=github_dark&utcOffset=5.5" height="180" alt="Commits by Hour" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishqsharma7918&theme=github_dark" height="180" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishqsharma7918&theme=github_dark" height="180" alt="Top Languages by Commit" />
 </div>
 
 <br/>
 
+<!-- Streak stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqsharma7918&theme=tokyonight&hide_border=true&background=000000&stroke=00FFFF&ring=8A2BE2&fire=FF4500&currStreakLabel=00FFFF" alt="Streak Stats" />
 </div>
 
 <br/>
 
+<!-- Activity graph -->
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsharma7918&bg_color=000000&color=00FFFF&line=8A2BE2&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsharma7918&bg_color=000000&color=00FFFF&line=8A2BE2&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
