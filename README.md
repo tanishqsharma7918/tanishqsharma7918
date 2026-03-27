@@ -138,6 +138,15 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanishqsharma7918&theme=github_dark" height="160" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanishqsharma7918&theme=github_dark&utcOffset=5.5" height="160" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishqsharma7918&theme=github_dark" height="160" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishqsharma7918&theme=github_dark" height="160" alt="Most Commit Language" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqsharma7918&theme=tokyonight&hide_border=true&background=000000&stroke=00FFFF&ring=8A2BE2&fire=FF4500&currStreakLabel=00FFFF" alt="Streak Stats" />
 </div>
 
