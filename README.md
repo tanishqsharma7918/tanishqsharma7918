@@ -124,13 +124,16 @@
 
 <h2 align="center" style="border-bottom: 2px solid #00FFFF; color: #00FFFF;">📈 Neural Network Activity</h2>
 
-<!-- Clickable org contribution tabs — click to see filtered commits per org -->
+<!-- Year filter — click a year to see that year's contributions on GitHub -->
 <div align="center">
-  <a href="https://github.com/tanishqsharma7918?tab=overview&org=Dev-2-Prod">
-    <img src="https://img.shields.io/badge/@Dev--2--Prod-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dev-2-Prod contributions" />
+  <a href="https://github.com/tanishqsharma7918?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/2026-00FFFF?style=for-the-badge&labelColor=000000&color=00FFFF" alt="2026" />
   </a>&nbsp;
-  <a href="https://github.com/tanishqsharma7918?tab=overview&org=Culinda-Inc">
-    <img src="https://img.shields.io/badge/@Culinda--Inc-181717?style=for-the-badge&logo=github&logoColor=white" alt="Culinda-Inc contributions" />
+  <a href="https://github.com/tanishqsharma7918?tab=overview&from=2025-01-01&to=2025-12-31">
+    <img src="https://img.shields.io/badge/2025-8A2BE2?style=for-the-badge&labelColor=000000&color=8A2BE2" alt="2025" />
+  </a>&nbsp;
+  <a href="https://github.com/tanishqsharma7918?tab=overview&from=2024-01-01&to=2024-12-31">
+    <img src="https://img.shields.io/badge/2024-39FF14?style=for-the-badge&labelColor=000000&color=39FF14" alt="2024" />
   </a>
 </div>
 
@@ -138,7 +141,7 @@
 
 <!-- Contribution heatmap calendar -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishqsharma7918&theme=github_dark" width="100%" alt="Contribution Calendar" />
+  <img src="https://ghchart.rshah.org/00FFFF/tanishqsharma7918" width="100%" alt="Contribution Heatmap" />
 </div>
 
 <br/>
