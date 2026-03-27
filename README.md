@@ -131,9 +131,6 @@
   </a>&nbsp;&nbsp;
   <a href="#-2025">
     <img src="https://img.shields.io/badge/2025-8A2BE2?style=flat-square&labelColor=0d1117&color=8A2BE2" alt="2025" />
-  </a>&nbsp;&nbsp;
-  <a href="#-2024">
-    <img src="https://img.shields.io/badge/2024-39FF14?style=flat-square&labelColor=0d1117&color=39FF14" alt="2024" />
   </a>
 </div>
 
@@ -151,14 +148,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsharma7918&from=2025-01-01&to=2025-12-31&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=Tanishq's%20Contributions%20%E2%80%94%202025&title_color=8A2BE2" width="100%" alt="2025 Contributions" />
-</div>
-
-<br/>
-
-<h4 id="-2024" align="center">── 2024 ──</h4>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsharma7918&from=2024-01-01&to=2024-12-31&bg_color=0d1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true&custom_title=Tanishq's%20Contributions%20%E2%80%94%202024&title_color=39FF14" width="100%" alt="2024 Contributions" />
 </div>
 
 <br/>
